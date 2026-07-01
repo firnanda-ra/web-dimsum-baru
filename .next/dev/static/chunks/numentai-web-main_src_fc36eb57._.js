@@ -248,7 +248,7 @@ function Footer() {
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$numentai$2d$web$2d$main$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "https://wa.me/6281226391579",
+                                                href: "https://wa.me/62881080176002",
                                                 target: "_blank",
                                                 className: "flex items-center gap-3 hover:text-rose-500 transition-colors",
                                                 children: [
@@ -268,7 +268,7 @@ function Footer() {
                                                         lineNumber: 65,
                                                         columnNumber: 17
                                                     }, this),
-                                                    "+62 812-2639-1579"
+                                                    "+62 881-0801-76002"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/numentai-web-main/src/components/Footer.jsx",
@@ -1384,7 +1384,7 @@ __TURBOPACK__imported__module__$5b$project$5d2f$numentai$2d$web$2d$main$2f$node_
 const steps = [
     {
         title: "Pilih Menu",
-        desc: "Tambahkan dimsum atau ikan kremes favoritmu ke keranjang.",
+        desc: "Tambahkan dimsum favoritmu ke keranjang.",
         icon: "M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"
     },
     {
@@ -1677,7 +1677,7 @@ function Section4() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$numentai$2d$web$2d$main$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                            href: "https://wa.me/6281226391579",
+                                            href: "https://wa.me/62881080176002",
                                             target: "_blank",
                                             rel: "noopener noreferrer",
                                             className: "flex items-start gap-3 hover:text-rose-500 transition-colors",
@@ -1698,7 +1698,7 @@ function Section4() {
                                                     lineNumber: 141,
                                                     columnNumber: 17
                                                 }, this),
-                                                "+62 812-2639-1579"
+                                                "+62 881-0801-76002"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/numentai-web-main/src/components/sections/Section4.jsx",
@@ -1712,7 +1712,7 @@ function Section4() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$numentai$2d$web$2d$main$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "https://wa.me/6281226391579?text=Halo%20Numentai%2C%20saya%20mau%20bertanya%20tentang%20produk.",
+                                    href: "https://wa.me/62881080176002?text=Halo%20Numentai%2C%20saya%20mau%20bertanya%20tentang%20produk.",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "mt-2 inline-flex w-fit items-center gap-2 rounded-full bg-rose-500 px-6 py-3 text-sm font-bold text-white shadow-lg shadow-pink-200 transition hover:bg-rose-600",

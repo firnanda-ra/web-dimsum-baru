@@ -58,12 +58,12 @@ export default function Footer() {
                 Semarang, Jawa Tengah<br/>Indonesia
               </p>
               <a 
-                href="https://wa.me/6281226391579" 
+                href="https://wa.me/62881080176002" 
                 target="_blank"
                 className="flex items-center gap-3 hover:text-rose-500 transition-colors"
               >
                 <svg className="w-5 h-5 text-rose-500" fill="currentColor" viewBox="0 0 24 24"><path d="M.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413 11.815 11.815 0 00-8.413-3.48C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24z"/></svg>
-                +62 812-2639-1579
+                +62 881-0801-76002
               </a>
             </div>
           </div>

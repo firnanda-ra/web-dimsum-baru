@@ -3,7 +3,7 @@ import { createContext, useContext, useEffect, useState } from "react";
 
 const CartContext = createContext(null);
 const STORAGE_KEY = "numentai-cart";
-const WHATSAPP_NUMBER = "6281226391579";
+const WHATSAPP_NUMBER = "62881080176002";
 
 export function CartProvider({ children }) {
   const [items, setItems] = useState([]);
@@ -90,7 +90,7 @@ export function CartProvider({ children }) {
     const noteLine = note ? `\n\nCatatan: ${note}` : "";
     const message = `Halo Numentai, saya mau pesan:\n${lines.join(
       "\n"
-    )}${totalLine}${customerBlock}${noteLine}\n\nMohon info ongkir & cara pembayarannya ya. Terima kasih!`;
+    )}${totalLine}${customerBlock}${noteLine}\n\nMohon info ongkir. Terima kasih!`;
     return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
   };
 

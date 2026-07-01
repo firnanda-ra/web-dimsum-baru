@@ -1,81 +1,152 @@
-[00:00:02.416] Server  LOG     ✓ Ready in 1575ms
-[00:00:11.426] Server  LOG     ○ Compiling / ...
-[00:00:16.521] Server  WARN    ⚠ Cross origin request detected from 10.10.10.7 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+[00:00:02.182] Server  LOG     ✓ Ready in 1523ms
+[00:00:10.309] Server  WARN    ⚠ Cross origin request detected from 10.10.10.7 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
-[00:00:16.798] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:17.546] Browser WARN    Element not found: #home
-[00:00:17.546] Browser WARN    GSAP target .review-card not found. https://gsap.com
-[00:00:17.546] Browser WARN    GSAP target  not found. https://gsap.com
-[00:00:17.547] Browser WARN    Element not found: .review-container
-[00:00:17.547] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:17.547] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:17.547] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:17.547] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:19.342] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:08:20.994] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:08:21.662] Browser WARN    Element not found: #home
-[00:08:21.662] Browser WARN    GSAP target .review-card not found. https://gsap.com
-[00:08:21.662] Browser WARN    GSAP target  not found. https://gsap.com
-[00:08:21.662] Browser WARN    Element not found: .review-container
-[00:08:21.663] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:08:21.663] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:08:21.663] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:08:21.663] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:08:21.663] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:10:32.133] Server  LOG     ✓ Compiled in 437ms
-[00:10:38.327] Server  LOG     ✓ Compiled in 50ms
-[00:10:48.513] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:10:49.189] Browser WARN    Element not found: #home
-[00:10:49.189] Browser WARN    GSAP target .review-card not found. https://gsap.com
-[00:10:49.189] Browser WARN    GSAP target  not found. https://gsap.com
-[00:10:49.189] Browser WARN    Element not found: .review-container
-[00:10:49.189] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:10:49.189] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:10:49.189] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:10:49.189] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:10:49.189] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:24:02.307] Server  LOG     ✓ Compiled in 282ms
-[00:24:32.645] Server  LOG     ✓ Compiled in 59ms
-[00:24:34.463] Server  LOG     ✓ Compiled in 64ms
-[00:25:00.287] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:25:00.805] Browser WARN    Element not found: #home
-[00:25:00.805] Browser WARN    GSAP target .review-card not found. https://gsap.com
-[00:25:00.805] Browser WARN    GSAP target  not found. https://gsap.com
-[00:25:00.806] Browser WARN    Element not found: .review-container
-[00:25:00.806] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:25:00.806] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:25:00.807] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:25:00.807] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:25:00.807] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:27:16.784] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:27:17.465] Browser WARN    Element not found: #home
-[00:27:17.465] Browser WARN    GSAP target .review-card not found. https://gsap.com
-[00:27:17.466] Browser WARN    GSAP target  not found. https://gsap.com
-[00:27:17.466] Browser WARN    Element not found: .review-container
-[00:27:17.466] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:27:17.466] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:27:17.466] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:27:17.466] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:27:17.466] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:30:56.219] Server  LOG     ✓ Compiled in 266ms
-[00:31:14.126] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:31:14.720] Browser WARN    Element not found: #home
-[00:31:14.720] Browser WARN    GSAP target .review-card not found. https://gsap.com
-[00:31:14.720] Browser WARN    GSAP target  not found. https://gsap.com
-[00:31:14.720] Browser WARN    Element not found: .review-container
-[00:31:14.720] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:31:14.720] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:31:14.720] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:31:14.720] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:31:14.720] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:34:54.398] Server  LOG     ✓ Compiled in 151ms
-[00:35:43.430] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:35:43.976] Browser WARN    Element not found: #home
-[00:35:43.976] Browser WARN    GSAP target .review-card not found. https://gsap.com
-[00:35:43.976] Browser WARN    GSAP target  not found. https://gsap.com
-[00:35:43.977] Browser WARN    Element not found: .review-container
-[00:35:43.977] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:35:43.977] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:35:43.977] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:35:43.977] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:35:43.977] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:10.525] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:10.756] Browser WARN    Element not found: #home
+[00:00:10.757] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:00:10.757] Browser WARN    GSAP target  not found. https://gsap.com
+[00:00:10.757] Browser WARN    Element not found: .review-container
+[00:00:11.093] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:11.094] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:11.094] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:11.094] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:11.094] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:51.890] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:52.444] Browser WARN    Element not found: #home
+[00:00:52.444] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:00:52.444] Browser WARN    GSAP target  not found. https://gsap.com
+[00:00:52.444] Browser WARN    Element not found: .review-container
+[00:00:53.005] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:53.005] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:53.005] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:53.005] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:53.005] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:02:59.528] Server  LOG     ✓ Compiled in 478ms
+[00:03:16.666] Server  LOG     ✓ Compiled in 53ms
+[00:03:18.941] Server  LOG     ✓ Compiled in 41ms
+[00:03:24.156] Server  LOG     ✓ Compiled in 40ms
+[00:03:29.501] Server  LOG     ✓ Compiled in 127ms
+[00:03:32.734] Server  LOG     ✓ Compiled in 98ms
+[00:03:36.685] Server  LOG     ✓ Compiled in 118ms
+[00:03:38.496] Server  LOG     ✓ Compiled in 36ms
+[00:03:45.188] Server  LOG     ✓ Compiled in 36ms
+[00:04:01.785] Server  LOG     ✓ Compiled in 34ms
+[00:04:06.952] Server  LOG     ✓ Compiled in 104ms
+[00:04:12.572] Server  LOG     ✓ Compiled in 107ms
+[00:04:17.032] Server  LOG     ✓ Compiled in 97ms
+[00:04:19.552] Server  LOG     ✓ Compiled in 31ms
+[00:04:48.989] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:49.668] Browser WARN    Element not found: #home
+[00:04:49.668] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:04:49.668] Browser WARN    GSAP target  not found. https://gsap.com
+[00:04:49.668] Browser WARN    Element not found: .review-container
+[00:04:49.668] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:04:49.668] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:04:49.668] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:04:49.668] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:04:49.668] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:53.831] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:05:53.852] Server  LOG     ✓ Compiled in 404ms
+[00:05:53.861] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:05:55.688] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:56.410] Browser WARN    Element not found: #home
+[00:05:56.410] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:05:56.410] Browser WARN    GSAP target  not found. https://gsap.com
+[00:05:56.410] Browser WARN    Element not found: .review-container
+[00:05:56.729] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:57.200] Browser WARN    Element not found: #home
+[00:05:57.200] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:05:57.200] Browser WARN    GSAP target  not found. https://gsap.com
+[00:05:57.200] Browser WARN    Element not found: .review-container
+[00:05:57.657] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:57.657] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:57.657] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:57.657] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:57.657] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:05.812] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:05.818] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:05.837] Server  LOG     ✓ Compiled in 126ms
+[00:06:07.155] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:07.419] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:08.398] Browser WARN    Element not found: #home
+[00:06:08.398] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:06:08.398] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:08.398] Browser WARN    Element not found: .review-container
+[00:06:08.455] Browser WARN    Element not found: #home
+[00:06:08.455] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:06:08.455] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:08.455] Browser WARN    Element not found: .review-container
+[00:06:08.736] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:08.737] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:08.737] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:08.737] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:08.737] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:08.737] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:08.737] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:08.769] Server  LOG     ✓ Compiled in 128ms
+[00:06:09.858] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:10.399] Browser WARN    Element not found: #home
+[00:06:10.399] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:06:10.399] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:10.399] Browser WARN    Element not found: .review-container
+[00:06:10.675] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:11.727] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:11.740] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:11.741] Browser WARN    Element not found: #home
+[00:06:11.741] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:06:11.741] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:11.741] Browser WARN    Element not found: .review-container
+[00:06:11.741] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:11.741] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:11.741] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:11.741] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:11.741] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:11.761] Server  LOG     ✓ Compiled in 113ms
+[00:06:13.042] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:13.397] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:14.391] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:14.391] Browser WARN    Element not found: #home
+[00:06:14.391] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:06:14.391] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:14.391] Browser WARN    Element not found: .review-container
+[00:06:14.417] Server  LOG     ✓ Compiled in 46ms
+[00:06:14.422] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./numentai-web-main/src/context/CartContext.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:14.424] Browser WARN    Element not found: #home
+[00:06:14.424] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:06:14.424] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:14.424] Browser WARN    Element not found: .review-container
+[00:06:14.424] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:14.424] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:14.424] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:14.424] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:14.424] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:15.761] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:16.145] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:17.401] Browser WARN    Element not found: #home
+[00:06:17.402] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:06:17.402] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:17.402] Browser WARN    Element not found: .review-container
+[00:06:18.392] Browser WARN    Element not found: #home
+[00:06:18.392] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:06:18.392] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:18.392] Browser WARN    Element not found: .review-container
+[00:06:18.392] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:18.392] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:18.392] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:18.392] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:18.392] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:56.658] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:56.658] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:56.658] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:56.658] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:56.658] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:58.367] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:58.967] Browser WARN    Element not found: #home
+[00:06:58.967] Browser WARN    GSAP target .review-card not found. https://gsap.com
+[00:06:58.967] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:58.967] Browser WARN    Element not found: .review-container
+[00:06:58.967] Browser WARN    Image with src "/images/mentai3.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:58.967] Browser WARN    Image with src "/images/mentai1.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:58.967] Browser WARN    Image with src "/images/dimsum4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:58.967] Browser WARN    Image with src "/images/mentai2.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:58.967] Browser WARN    Image with src "/images/dimsumnori.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes

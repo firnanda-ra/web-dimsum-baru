@@ -133,7 +133,7 @@ export default function Section4() {
                 <span>Setiap hari, 09.00 – 21.00 WIB</span>
               </div>
               <a
-                href="https://wa.me/6281226391579"
+                href="https://wa.me/62881080176002"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-start gap-3 hover:text-rose-500 transition-colors"
@@ -141,12 +141,12 @@ export default function Section4() {
                 <svg className="w-5 h-5 text-rose-500 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413 11.815 11.815 0 00-8.413-3.48C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24z" />
                 </svg>
-                +62 812-2639-1579
+                +62 881-0801-76002
               </a>
             </div>
 
             <a
-              href="https://wa.me/6281226391579?text=Halo%20Numentai%2C%20saya%20mau%20bertanya%20tentang%20produk."
+              href="https://wa.me/62881080176002?text=Halo%20Numentai%2C%20saya%20mau%20bertanya%20tentang%20produk."
               target="_blank"
               rel="noopener noreferrer"
               className="mt-2 inline-flex w-fit items-center gap-2 rounded-full bg-rose-500 px-6 py-3 text-sm font-bold text-white shadow-lg shadow-pink-200 transition hover:bg-rose-600"
