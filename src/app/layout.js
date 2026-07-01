@@ -14,9 +14,9 @@ const poppins = Poppins({
 
 
 export const metadata = {
-  title: 'NUMENTAI Dimsum | Dimsum Mentai Lumer & Ikan Kremes Khas Semarang',
+  title: 'NUMENTAI Dimsum | Dimsum Mentai Lumer Khas Semarang',
   description:
-    'Numentai menyediakan dimsum mentai lumer dan ikan kremes premium siap pesan online via WhatsApp. Camilan creamy dan gurih untuk segala momen, langsung dari Semarang.',
+    'Numentai menyediakan dimsum mentai lumer premium siap pesan online via WhatsApp. Camilan creamy dan gurih untuk segala momen, langsung dari Semarang.',
 }
 
 export default function RootLayout({ children }) {
@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
     <html lang="id">
       <head>
         <meta property="og:title" content="NUMENTAI Dimsum" />
-        <meta property="og:description" content="Dimsum mentai lumer & ikan kremes premium, pesan mudah via WhatsApp." />
+        <meta property="og:description" content="Dimsum mentai lumer premium, pesan mudah via WhatsApp." />
         <meta property="og:image" content="https://ikanoy.vercel.app/preview.jpg" />
         <meta property="og:url" content="https://ikanoy.vercel.app" />
         <meta property="og:type" content="website" />

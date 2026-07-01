@@ -204,8 +204,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$numentai$2d$web$2d$main$2f$s
 ;
 ;
 const metadata = {
-    title: 'NUMENTAI Dimsum | Dimsum Mentai Lumer & Ikan Kremes Khas Semarang',
-    description: 'Numentai menyediakan dimsum mentai lumer dan ikan kremes premium siap pesan online via WhatsApp. Camilan creamy dan gurih untuk segala momen, langsung dari Semarang.'
+    title: 'NUMENTAI Dimsum | Dimsum Mentai Lumer Khas Semarang',
+    description: 'Numentai menyediakan dimsum mentai lumer premium siap pesan online via WhatsApp. Camilan creamy dan gurih untuk segala momen, langsung dari Semarang.'
 };
 function RootLayout({ children }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$numentai$2d$web$2d$main$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("html", {
@@ -223,7 +223,7 @@ function RootLayout({ children }) {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$numentai$2d$web$2d$main$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
                         property: "og:description",
-                        content: "Dimsum mentai lumer & ikan kremes premium, pesan mudah via WhatsApp."
+                        content: "Dimsum mentai lumer premium, pesan mudah via WhatsApp."
                     }, void 0, false, {
                         fileName: "[project]/numentai-web-main/src/app/layout.js",
                         lineNumber: 27,
